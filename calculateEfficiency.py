@@ -11,8 +11,8 @@ for probability in probabilities:
     results1[c] = -1*results1[c]
     c+=1
         
-h1 = [2,2,2,2]
-h2 = [6,6,6,6,4,3,2,1]
+h1 = [3,3,2,1]
+h2 = [5,5,5,5,4,3,3,1]
 h3 = [10,10,9,9,9,7,6,7,7,7,7,4,3,3,3,1]
 hlen = [h1,h2,h3]
 results2 = [0,0,0]
